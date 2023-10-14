@@ -8,3 +8,6 @@
 **xmltojson.py** a nasty python script to take the XML output results of the well known Linux sslscan tool and convert them to JSON format.
 
 **xmltohtml.py** a nasty python script to take the XML output results of NMAP and turn them into a prettier HTML output.
+
+### other stuff ###
+** monitor.sh **  simple bash script to monitor for a 200/300 response from a website. If not, it shows an error count. 10 second delay between probes.
